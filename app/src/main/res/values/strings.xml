@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gorjetinha</string>
+    <string name="como_estava_o_servi_o">Como estava o serviço?</string>
+    <string name="custo_do_servi_o">Custo do Serviço</string>
+    <string name="amazing_20">Maravilhoso (20%)</string>
+    <string name="good_18">Ótimo (18%)</string>
+    <string name="okay_15">OK (15%)</string>
+    <string name="normal_10">Normal (10%)</string>
+    <string name="awfull_0">Ruim (0%)</string>
+    <string name="arredondar_gorjeta">Arredondar gorjeta?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Gorjeta: R%s</string>
+    <string name="description">Adicione o valor da sua conta, escolha sua experiência e clique em calcular para descobrir quanto vale o nosso serviço.</string>
+    <string name="waiter">waiter</string>
+</resources>
